@@ -1,5 +1,5 @@
 PODS:
-  - FactoryViewController (0.1.0)
+  - FactoryViewController (0.1.1)
 
 DEPENDENCIES:
   - FactoryViewController (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  FactoryViewController: 4ff386084d3d330dc8daadb94368a6e19a374f13
+  FactoryViewController: 1c9b467c3ab06c3ce36467ee00b52763666137d4
 
 PODFILE CHECKSUM: d5f2c5bf6d65173deaccc0567b00869844da5eaa
 
