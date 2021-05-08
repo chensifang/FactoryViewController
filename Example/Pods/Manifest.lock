@@ -1,0 +1,16 @@
+PODS:
+  - FactoryViewController (0.1.0)
+
+DEPENDENCIES:
+  - FactoryViewController (from `../`)
+
+EXTERNAL SOURCES:
+  FactoryViewController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FactoryViewController: 4ff386084d3d330dc8daadb94368a6e19a374f13
+
+PODFILE CHECKSUM: d5f2c5bf6d65173deaccc0567b00869844da5eaa
+
+COCOAPODS: 1.9.1

@@ -1,0 +1,6 @@
+framework module FactoryViewController {
+  umbrella header "FactoryViewController-umbrella.h"
+
+  export *
+  module * { export * }
+}

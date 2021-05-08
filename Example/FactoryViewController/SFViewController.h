@@ -7,7 +7,8 @@
 //
 
 @import UIKit;
+#import <FactoryViewController.h>
 
-@interface SFViewController : UIViewController
+@interface SFViewController : FactoryViewController
 
 @end
