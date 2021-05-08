@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'FactoryController_Example' do
+  pod 'FactoryController', :path => '../'
+
+  target 'FactoryController_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
