@@ -7,7 +7,8 @@
 //
 
 @import UIKit;
+#import <FactoryController/BaseColletionViewController.h>
 
-@interface SFViewController : UIViewController
+@interface SFViewController : BaseColletionViewController
 
 @end

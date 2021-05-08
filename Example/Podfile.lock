@@ -1,0 +1,16 @@
+PODS:
+  - FactoryController (0.1.0)
+
+DEPENDENCIES:
+  - FactoryController (from `../`)
+
+EXTERNAL SOURCES:
+  FactoryController:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FactoryController: 359e65da1a37a6b7d05cde17d0a30aea6aed2053
+
+PODFILE CHECKSUM: 96a8c5cc1822cc81215c189b050987c61903a58f
+
+COCOAPODS: 1.9.1
